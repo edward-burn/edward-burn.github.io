@@ -87,10 +87,17 @@ a{
 }
 
 .profilepic {
-    width: 150px;
-    border-radius: 40%;
-    filter: grayscale(100%);
+    float:left;
+    margin-left:125px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; /* Modified*/
+    /*overflow:hidden;*/
+    background-color: blue; 
 }
+
+
 
 /* media queres */
 @media(max-width:780px){
