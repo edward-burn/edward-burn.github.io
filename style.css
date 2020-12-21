@@ -87,14 +87,7 @@ a{
 }
 
 .profilepic {
-    float:left;
-    margin-left:125px;
-    margin-top: 20px;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%; /* Modified*/
-    /*overflow:hidden;*/
-    background-color: blue; 
+    border-radius: 50%; 
 }
 
 
