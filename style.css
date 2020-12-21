@@ -88,6 +88,8 @@ a{
 
 .profilepic {
     border-radius: 50%; 
+    width: 60%; 
+    height: 60%; 
 }
 
 
