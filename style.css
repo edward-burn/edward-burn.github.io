@@ -19,6 +19,12 @@ h2,.white{
     color: #fff;
 }
 
+a:link {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 a{
     color: #7A7C80;
     text-decoration: none;
